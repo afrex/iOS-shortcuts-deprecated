@@ -1,0 +1,25 @@
+DESCRIPTION:
+This mobile config will create shortcuts for the following network settings : 
+
+Wifi
+3G
+Bluetooth
+Aireplane mode
+GPS
+
+This mobile config is not signed and installing this is at own risk.
+There is no security policy on the mobile config so it can be deleted anytime.
+
+INSTALLATION:
+Download the Shorcuts.mobileconfig on your iPhone and install this profile.
+You will see a message that this mobileconfig is unsigned but you can proceed the installation.
+
+COPYRIGHT:
+This file is free to use and install. You can redistribute it and/or modify it.
+
+AUTHOR:
+Alexander Goudswaard
+http://www.twitter.com/AfreX
+
+VERSION:
+0.1
